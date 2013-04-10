@@ -1,6 +1,6 @@
 body {
 	font-family: 'Helvetica Neue';
-	background: #228B22;
+	background: #BBBD7D;
 	color: #ffffff;
 	font-size: 18px;
 }
@@ -20,11 +20,11 @@ a:link, a:visited {
 	font-weight: normal;
 	display: inline-block;
 	text-transform: uppercase;
-	background-color: #136B5B;
-	color: #DC143C;
+	background-color: #003A40;
+	color: #FFFFFF;
 	text-decoration: none;
 	padding: 10px;
-	border-radius: 5px;
+	border-radius: 8px;
 }
 
 a:hover, a:active {
