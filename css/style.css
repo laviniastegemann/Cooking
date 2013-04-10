@@ -24,13 +24,17 @@ body {
 
 a:link, a:visited {
 	font-weight: normal;
+	margin-top: 5px;
 	display: inline-block;
 	text-transform: uppercase;
+	font-size: 30px;
 	background-color: #003A40;
 	color: #FFFFFF;
 	text-decoration: none;
 	padding: 10px;
 	border-radius: 8px;
+	width: 235px;
+	height: 40px;
 }
 
 a:hover, a:active {
@@ -41,5 +45,5 @@ a:hover, a:active {
 	color: #DC143C;
 	text-decoration: none;
 	padding: 10px;
-	border-radius: 5px;
+	border-radius: 8px;
 }
