@@ -23,11 +23,17 @@ a:link, a:visited {
 	background-color: #136B5B;
 	color: #DC143C;
 	text-decoration: none;
+	padding: 10px;
+	border-radius: 5px;
 }
 
 a:hover, a:active {
 	font-weight: normal;
+	display: inline-block;
 	text-transform: uppercase;
-	color: #ffffff;
+	background-color: #136B5B;
+	color: #DC143C;
 	text-decoration: none;
+	padding: 10px;
+	border-radius: 5px;
 }
