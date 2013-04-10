@@ -20,7 +20,8 @@ a:link, a:visited {
 	font-weight: normal;
 	display: inline-block;
 	text-transform: uppercase;
-	color: #136B5B;
+	background-color: #136B5B;
+	color: #DC143C;
 	text-decoration: none;
 }
 
