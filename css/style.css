@@ -16,25 +16,21 @@ body {
 }
 
 table{
-	table-border: 10px;
 	text-align: center;
-	width: 65%; 
+	width: 255px;
+	margin: 0 auto;
 }	
 	
 tr{
-	padding: 15px;
 	background-color: transparent;
 }	
 
 td{
 	width: 50%;
-	padding: 8px;
 }	
 
 #container{	 
-	text-align: center; 
-	margin-left: 35%;
-	margin-right: 25%;
+	text-align: center;
 }	
 .ui-page { -webkit-backface-visibility: hidden; }
 
