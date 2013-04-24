@@ -59,3 +59,11 @@ a:hover, a:active {
 	padding: 10px;
 	border-radius: 8px;
 }
+
+#container a:link, #container a:visited {
+	font-weight: normal;
+}
+
+#container a:hover, #container a:active {
+	font-weight: normal;
+}
