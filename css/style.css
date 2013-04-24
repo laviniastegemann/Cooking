@@ -62,8 +62,26 @@ a:hover, a:active {
 
 #container a:link, #container a:visited {
 	font-weight: normal;
+	margin-top: 0px;
+	display: none;
+	text-transform: none;
+	font-size: 23px;
+	background-color: transparent;
+	color: none;
+	text-decoration: none;
+	padding: 0px;
+	border-radius: 0px;
+	width: 255px;
+	height: 40px;
 }
 
 #container a:hover, #container a:active {
-	font-weight: normal;
+	font-weight: none;
+	display: none;
+	text-transform: none
+	background-color: transperent;
+	color: none;
+	text-decoration: none;
+	padding: 0px;
+	border-radius: 0px;
 }
