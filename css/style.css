@@ -23,7 +23,7 @@ table{
 	
 tr{
 	padding: 15px;
-	background-color: #00565E;
+	background-color: transparent;
 }	
 
 td{
@@ -33,7 +33,7 @@ td{
 
 #container{	 
 	text-align: center; 
-	margin-left: 25%;
+	margin-left: 35%;
 	margin-right: 25%;
 }	
 .ui-page { -webkit-backface-visibility: hidden; }
