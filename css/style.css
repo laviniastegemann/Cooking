@@ -18,7 +18,7 @@ body {
 table{
 	table-border: 10px;
 	text-align: center;
-	width: auto; 
+	width: 65%; 
 }	
 	
 tr{
@@ -33,8 +33,8 @@ td{
 
 #container{	 
 	text-align: center; 
-	margin-left: auto;
-	margin-right:auto;
+	margin-left: 25%;
+	margin-right: 25%;
 }	
 .ui-page { -webkit-backface-visibility: hidden; }
 
